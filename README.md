@@ -14,7 +14,7 @@ It also has other functionalities to launch settings, get system information, ac
 You can download the app for free from [Microsoft Store](https://www.microsoft.com/en-us/p/pure-battery-analytics/9nblggh4x4k3) or from [Github](/v1.23.110)  
 
 # Screenshots
-![](/Screenshots/1.jpg)
+![](/Screenshots/1.png)
 ![](/Screenshots/2.jpg)
 ![](/Screenshots/3.jpg)
 ![](/Screenshots/4.jpg)
